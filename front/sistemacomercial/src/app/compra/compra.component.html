@@ -1,0 +1,84 @@
+
+<h1>Registrar Compra</h1>
+<div class="detalle-container" style="background:#eeeff0f7; border-radius:8px; padding:1.2rem 1.5rem 0.7rem 1.5rem; margin-bottom:1.2rem; box-shadow:0 2px 8px rgba(0,0,0,0.04);">
+  <form class="form-grid" (ngSubmit)="$event.preventDefault()">
+    <div class="form-row" style="display: flex; align-items: center; gap: 32px; justify-content: flex-start;">
+      <div class="form-group" style="display: flex; align-items: center; gap: 8px;">
+        <label style="min-width:70px;">Producto:</label>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <select [(ngModel)]="detalleActual.idProducto" name="idProducto" required (ngModelChange)="setearPrecioCompra($event)" style="min-width:140px; height:32px;">
+            <option value="">Seleccione un producto</option>
+            <option *ngFor="let prod of productos" [value]="prod.idProducto">{{ prod.nombre }}</option>
+          </select>
+          <button 
+            type="button" 
+            (click)="mostrarModalProducto = true" 
+            style="width: 32px; height: 32px; border-radius: 50%; border: none; background: #1976d2; color: #fff; display: flex; align-items: center; justify-content: center; font-size: 1.3em; box-shadow: 0 2px 8px rgba(25,118,210,0.12); cursor: pointer; transition: background 0.2s; margin-left: 4px;"
+            title="Agregar nuevo producto"
+          >
+            <span style="display:inline-block; font-weight:bold;">&#43;</span>
+          </button>
+        </div>
+      </div>
+      <div class="form-group" style="display: flex; align-items: center; gap: 8px;">
+        <label style="min-width:50px;">Precio:</label>
+        <input type="number" step="0.01" [(ngModel)]="detalleActual.precio" name="precio" disabled style="width:80px; height:32px;" />
+      </div>
+      <div class="form-group" style="display: flex; align-items: center; gap: 8px;">
+        <label style="min-width:60px;">Cantidad:</label>
+        <input type="number" min="1" [(ngModel)]="detalleActual.cantidad" name="cantidad" required style="width:80px; height:32px;" (input)="calcularTotal()" />
+      </div>
+      <div class="form-group" style="display: flex; align-items: center; gap: 8px;">
+        <label style="min-width:50px;">Total:</label>
+        <input type="number" step="0.01" [(ngModel)]="detalleActual.total" name="totalDet" disabled style="width:100px; height:32px;" />
+      </div>
+    </div>
+  </form>
+</div> <!-- Cierra detalle-container -->
+<div style="display: flex; justify-content: left; margin-bottom: 0.5rem; margin-top: -0.5rem;">
+  <button (click)="agregarDetalle()" class="btn-agregar-detalle" style="background: #1976d2; color: #fff; border: none; border-radius: 4px; padding: 0.6rem 2.2rem; font-size: 1.1rem; font-weight: 600; box-shadow: 0 2px 8px rgba(25,118,210,0.08); transition: background 0.2s; display: flex; align-items: center; gap: 0.5rem;">
+    <span style="font-size:1.3em;line-height:0;">&#43;</span> Agregar Detalle
+  </button>
+</div>
+
+<table class="tabla-detalles" style="margin-top:1.2rem;width:100%;">
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Producto</th>
+      <th>Cantidad</th>
+      <th>Precio</th>
+      <th>Total</th>
+      <th>Acciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngIf="compraDet.length === 0">
+      <td colspan="8" style="text-align:center; color:#888;">No hay detalles agregados</td>
+    </tr>
+    <tr *ngFor="let det of compraDet; let i = index">
+      <td>{{ i + 1 }}</td>
+      <td>{{ getNombreProducto(det.idProducto) }}</td>
+      <td>{{ det.cantidad }}</td>
+      <td>{{ det.precio }}</td>
+      <td>{{ det.total }}</td>
+      <td>
+        <button (click)="editarDetalle(i)" type="button">Editar</button>
+        <button (click)="eliminarDetalle(i)" type="button">Eliminar</button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<div *ngIf="compraDet.length > 0" style="display: flex; justify-content: flex-end; margin-top: 1.5rem; margin-bottom: 1.5rem;">
+  <div style="margin-right: 340px; display: flex; align-items: center; gap: 12px;">
+    <span style="font-size:1.2em; font-weight:bold;">Total:</span>
+    <input type="text" [value]="compraCab.total" readonly style="text-align:right; font-weight:bold; background:#f3f3f3; border:1px solid #ccc; border-radius:4px; width:120px; font-size:1.2em;" />
+  </div>
+</div>
+
+<div *ngIf="mostrarModalProducto" style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,0,0,0.18);z-index:2000;display:flex;align-items:center;justify-content:center;">
+  <app-registro-producto (cerrarModal)="mostrarModalProducto = false" (productoRegistrado)="onProductoRegistrado($event)"></app-registro-producto>
+</div>
+  <div style="display: flex; justify-content: center; margin-top: 2rem;">
+    <button (click)="registrarCompra()" class="btn-registrar">Registrar Compra</button>
+  </div>

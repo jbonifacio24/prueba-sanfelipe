@@ -1,0 +1,6 @@
+@MS.Auth.Api_HostAddress = http://localhost:5001
+
+GET {{MS.Auth.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

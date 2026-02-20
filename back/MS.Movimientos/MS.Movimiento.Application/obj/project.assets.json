@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MS.Movimiento.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MS.Movimiento.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MS.Movimiento.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MS.Movimiento.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MS.Movimiento.Domain/MS.Movimiento.Domain.csproj",
+      "msbuildProject": "../MS.Movimiento.Domain/MS.Movimiento.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MS.Movimiento.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Movimientos\\MS.Movimiento.Application\\MS.Movimiento.Application.csproj",
+      "projectName": "MS.Movimiento.Application",
+      "projectPath": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Movimientos\\MS.Movimiento.Application\\MS.Movimiento.Application.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Movimientos\\MS.Movimiento.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Movimientos\\MS.Movimiento.Domain\\MS.Movimiento.Domain.csproj": {
+              "projectPath": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Movimientos\\MS.Movimiento.Domain\\MS.Movimiento.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

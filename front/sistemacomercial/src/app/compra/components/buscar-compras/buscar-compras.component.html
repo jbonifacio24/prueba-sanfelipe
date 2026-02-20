@@ -1,0 +1,42 @@
+<div style="margin-bottom: 1.2rem;">
+  <label style="font-weight:600;font-size:1.2em;">Buscar Compras</label>
+  <div style="display:flex;align-items:center;gap:0.5rem;">
+    <input type="text" [(ngModel)]="busqueda" placeholder="Buscar..." style="flex:1; padding:0.7rem 1.2rem; border-radius:6px; border:1px solid #d1d5db; font-size:1.1em;" (focus)="abrirModal()" readonly />
+    <button type="button" (click)="abrirModal()" style="background:#f3f4f6;border:none;border-radius:6px;padding:0.7rem 1rem;cursor:pointer;">
+      <span style="font-size:1.3em;color:#1976d2;">&#128269;</span>
+    </button>
+  </div>
+</div>
+
+<!-- Modal de búsqueda -->
+<div class="modal" *ngIf="mostrarModal" style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,0,0,0.12);z-index:1000;display:flex;align-items:center;justify-content:center;">
+  <div style="background:#fff;border-radius:12px;box-shadow:0 2px 16px rgba(0,0,0,0.12);min-width:420px;max-width:700px;width:90vw;padding:2rem 2.5rem;">
+    <h3 style="margin-bottom:1.2rem;">Buscar Compras:</h3>
+    <div style="display:flex;align-items:center;gap:0.5rem;margin-bottom:1.2rem;">
+      <input type="text" [(ngModel)]="busqueda" placeholder="Buscar..." style="flex:1; padding:0.7rem 1.2rem; border-radius:6px; border:1px solid #d1d5db; font-size:1.1em;" />
+      <button type="button" (click)="buscar()" style="background:#1976d2;border:none;border-radius:6px;padding:0.7rem 1rem;cursor:pointer;">
+        <span style="font-size:1.3em;color:#fff;">&#128269;</span>
+      </button>
+    </div>
+    <table style="width:100%;margin-bottom:1.2rem;">
+      <thead>
+        <tr style="background:#f3f4f6;">
+          <th style="padding:0.6rem 1rem;text-align:left;">Local</th>
+          <th style="padding:0.6rem 1rem;text-align:left;">Artículo</th>
+          <th style="padding:0.6rem 1rem;text-align:left;">Precio</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let r of resultados" (click)="seleccionarRegistro(r)" style="cursor:pointer;">
+          <td style="padding:0.6rem 1rem;">{{ r.local }}</td>
+          <td style="padding:0.6rem 1rem;">{{ r.articulo }}</td>
+          <td style="padding:0.6rem 1rem;">{{ r.precio | number:'1.2-2' }}</td>
+        </tr>
+        <tr *ngIf="resultados.length === 0">
+          <td colspan="3" style="text-align:center;color:#888;padding:1rem;">Sin resultados</td>
+        </tr>
+      </tbody>
+    </table>
+    <button type="button" (click)="cerrarModal()" style="background:#f3f4f6;border:none;border-radius:6px;padding:0.7rem 1rem;cursor:pointer;float:right;">Cancelar</button>
+  </div>
+</div>

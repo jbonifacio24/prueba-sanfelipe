@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yKUW0cd5yH96sWnOiKicGickORcGFjY2uHSSzzOPLok=",
+  "Source": "MS.Producto.Api",
+  "BasePath": "_content/MS.Producto.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

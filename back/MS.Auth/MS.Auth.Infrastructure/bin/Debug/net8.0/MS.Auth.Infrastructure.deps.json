@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MS.Auth.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MS.Auth.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MS.Auth.Infrastructure.dll": {}
+        }
+      },
+      "MS.Auth.Domain/1.0.0": {
+        "runtime": {
+          "MS.Auth.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MS.Auth.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MS.Auth.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

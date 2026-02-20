@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1CF700-37DE-4A0C-8642-9C6DEACCD3B0}|MS.Auth.Api\\MS.AuthService.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\back\\ms.auth\\ms.auth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1CF700-37DE-4A0C-8642-9C6DEACCD3B0}|MS.Auth.Api\\MS.AuthService.csproj|solutionrelative:ms.auth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1CF700-37DE-4A0C-8642-9C6DEACCD3B0}|MS.Auth.Api\\MS.AuthService.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\back\\ms.auth\\ms.auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1CF700-37DE-4A0C-8642-9C6DEACCD3B0}|MS.Auth.Api\\MS.AuthService.csproj|solutionrelative:ms.auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1CF700-37DE-4A0C-8642-9C6DEACCD3B0}|MS.Auth.Api\\MS.AuthService.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\back\\ms.auth\\ms.auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C1CF700-37DE-4A0C-8642-9C6DEACCD3B0}|MS.Auth.Api\\MS.AuthService.csproj|solutionrelative:ms.auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1A29A-24E4-4C4F-AD69-EEE60B3CBBEF}|MS.Auth.Application\\MS.Auth.Application.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\back\\ms.auth\\ms.auth.application\\ms.auth.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81F1A29A-24E4-4C4F-AD69-EEE60B3CBBEF}|MS.Auth.Application\\MS.Auth.Application.csproj|solutionrelative:ms.auth.application\\ms.auth.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 47,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Auth\\MS.Auth.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MS.Auth.Api\\appsettings.json",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Auth\\MS.Auth.Api\\appsettings.json",
+              "RelativeToolTip": "MS.Auth.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T03:48:50.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Auth\\MS.Auth.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MS.Auth.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Auth\\MS.Auth.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MS.Auth.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T03:25:03.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Auth\\MS.Auth.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MS.Auth.Api\\Program.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Auth\\MS.Auth.Api\\Program.cs",
+              "RelativeToolTip": "MS.Auth.Api\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T03:16:52.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MS.Auth.Application.csproj",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Auth\\MS.Auth.Application\\MS.Auth.Application.csproj",
+              "RelativeDocumentMoniker": "MS.Auth.Application\\MS.Auth.Application.csproj",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Auth\\MS.Auth.Application\\MS.Auth.Application.csproj",
+              "RelativeToolTip": "MS.Auth.Application\\MS.Auth.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T03:14:41.498Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

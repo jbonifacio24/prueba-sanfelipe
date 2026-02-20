@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C11D7A3-75E9-4A5C-AAAF-34A7494F83F5}|MS.Venta.Infrastructure\\MS.Venta.Infrastructure.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\ms.ventas\\ms.venta.infrastructure\\repositories\\createsalerepositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C11D7A3-75E9-4A5C-AAAF-34A7494F83F5}|MS.Venta.Infrastructure\\MS.Venta.Infrastructure.csproj|solutionrelative:ms.venta.infrastructure\\repositories\\createsalerepositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C11D7A3-75E9-4A5C-AAAF-34A7494F83F5}|MS.Venta.Infrastructure\\MS.Venta.Infrastructure.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\ms.ventas\\ms.venta.infrastructure\\data\\saledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C11D7A3-75E9-4A5C-AAAF-34A7494F83F5}|MS.Venta.Infrastructure\\MS.Venta.Infrastructure.csproj|solutionrelative:ms.venta.infrastructure\\data\\saledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651290DA-6E60-4CFC-B698-CC32BDA03BBA}|MS.Venta.Domain\\MS.Venta.Domain.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\ms.ventas\\ms.venta.domain\\entities\\saledetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651290DA-6E60-4CFC-B698-CC32BDA03BBA}|MS.Venta.Domain\\MS.Venta.Domain.csproj|solutionrelative:ms.venta.domain\\entities\\saledetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651290DA-6E60-4CFC-B698-CC32BDA03BBA}|MS.Venta.Domain\\MS.Venta.Domain.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\ms.ventas\\ms.venta.domain\\entities\\salecabentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651290DA-6E60-4CFC-B698-CC32BDA03BBA}|MS.Venta.Domain\\MS.Venta.Domain.csproj|solutionrelative:ms.venta.domain\\entities\\salecabentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5621E2-F84F-4031-B361-973FB52946C6}|MS.Venta.Application\\MS.Venta.Application.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\ms.ventas\\ms.venta.application\\usecases\\createsalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5621E2-F84F-4031-B361-973FB52946C6}|MS.Venta.Application\\MS.Venta.Application.csproj|solutionrelative:ms.venta.application\\usecases\\createsalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C11D7A3-75E9-4A5C-AAAF-34A7494F83F5}|MS.Venta.Infrastructure\\MS.Venta.Infrastructure.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\ms.ventas\\ms.venta.infrastructure\\decorators\\loggingsalerepositorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C11D7A3-75E9-4A5C-AAAF-34A7494F83F5}|MS.Venta.Infrastructure\\MS.Venta.Infrastructure.csproj|solutionrelative:ms.venta.infrastructure\\decorators\\loggingsalerepositorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651290DA-6E60-4CFC-B698-CC32BDA03BBA}|MS.Venta.Domain\\MS.Venta.Domain.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\ms.ventas\\ms.venta.domain\\entities\\salecab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651290DA-6E60-4CFC-B698-CC32BDA03BBA}|MS.Venta.Domain\\MS.Venta.Domain.csproj|solutionrelative:ms.venta.domain\\entities\\salecab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 47,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleDetEntity.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Domain\\Entities\\SaleDetEntity.cs",
+              "RelativeDocumentMoniker": "MS.Venta.Domain\\Entities\\SaleDetEntity.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Domain\\Entities\\SaleDetEntity.cs",
+              "RelativeToolTip": "MS.Venta.Domain\\Entities\\SaleDetEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:12:56.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleCabEntity.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Domain\\Entities\\SaleCabEntity.cs",
+              "RelativeDocumentMoniker": "MS.Venta.Domain\\Entities\\SaleCabEntity.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Domain\\Entities\\SaleCabEntity.cs",
+              "RelativeToolTip": "MS.Venta.Domain\\Entities\\SaleCabEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:12:51.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleDbContext.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Infrastructure\\Data\\SaleDbContext.cs",
+              "RelativeDocumentMoniker": "MS.Venta.Infrastructure\\Data\\SaleDbContext.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Infrastructure\\Data\\SaleDbContext.cs",
+              "RelativeToolTip": "MS.Venta.Infrastructure\\Data\\SaleDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:42:21.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSaleRepositoryEF.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Infrastructure\\Repositories\\CreateSaleRepositoryEF.cs",
+              "RelativeDocumentMoniker": "MS.Venta.Infrastructure\\Repositories\\CreateSaleRepositoryEF.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Infrastructure\\Repositories\\CreateSaleRepositoryEF.cs",
+              "RelativeToolTip": "MS.Venta.Infrastructure\\Repositories\\CreateSaleRepositoryEF.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA6wBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:41:52.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "a938fe8e-0109-4ffc-aaf1-2bab1cf3ec20",
+        "Display": 0,
+        "X": 272,
+        "Y": 82,
+        "Width": 1024,
+        "Height": 648,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaleCab.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Domain\\Entities\\SaleCab.cs",
+              "RelativeDocumentMoniker": "MS.Venta.Domain\\Entities\\SaleCab.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Domain\\Entities\\SaleCab.cs",
+              "RelativeToolTip": "MS.Venta.Domain\\Entities\\SaleCab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:31:50.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "1aace286-2bf6-4891-aab5-2242b1e30bf9",
+        "Display": 0,
+        "X": 42,
+        "Y": 165,
+        "Width": 1024,
+        "Height": 648,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateSaleHandler.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Application\\UseCases\\CreateSaleHandler.cs",
+              "RelativeDocumentMoniker": "MS.Venta.Application\\UseCases\\CreateSaleHandler.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Application\\UseCases\\CreateSaleHandler.cs",
+              "RelativeToolTip": "MS.Venta.Application\\UseCases\\CreateSaleHandler.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAWwDYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:45:15.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoggingSaleRepositoryDecorator.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Infrastructure\\Decorators\\LoggingSaleRepositoryDecorator.cs",
+              "RelativeDocumentMoniker": "MS.Venta.Infrastructure\\Decorators\\LoggingSaleRepositoryDecorator.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Infrastructure\\Decorators\\LoggingSaleRepositoryDecorator.cs",
+              "RelativeToolTip": "MS.Venta.Infrastructure\\Decorators\\LoggingSaleRepositoryDecorator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:45:31.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

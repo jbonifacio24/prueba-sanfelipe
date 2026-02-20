@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Productos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21C772EA-584F-4D63-A50B-E7D6CB1DAF2B}|MS.Producto.Api\\MS.Producto.Api.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\back\\ms.productos\\ms.producto.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C772EA-584F-4D63-A50B-E7D6CB1DAF2B}|MS.Producto.Api\\MS.Producto.Api.csproj|solutionrelative:ms.producto.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0F6AAE-63ED-49A0-861A-4227C297195A}|MS.Producto.Application\\MS.Producto.Application.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\back\\ms.productos\\ms.producto.application\\facades\\productfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0F6AAE-63ED-49A0-861A-4227C297195A}|MS.Producto.Application\\MS.Producto.Application.csproj|solutionrelative:ms.producto.application\\facades\\productfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 76,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Productos\\MS.Producto.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MS.Producto.Api\\Program.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Productos\\MS.Producto.Api\\Program.cs",
+              "RelativeToolTip": "MS.Producto.Api\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T04:02:52.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductFacade.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Productos\\MS.Producto.Application\\Facades\\ProductFacade.cs",
+              "RelativeDocumentMoniker": "MS.Producto.Application\\Facades\\ProductFacade.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\back\\MS.Productos\\MS.Producto.Application\\Facades\\ProductFacade.cs",
+              "RelativeToolTip": "MS.Producto.Application\\Facades\\ProductFacade.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T03:27:04.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

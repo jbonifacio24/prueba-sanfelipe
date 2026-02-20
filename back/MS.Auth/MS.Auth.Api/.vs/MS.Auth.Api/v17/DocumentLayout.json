@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProyectosProgramacion\\ProyectosLimpios\\SistemaComercial\\MS.Auth\\MS.Auth.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32346007-FDE3-46AF-B6CB-E704CAF3D552}|MS.Auth.Infrastructure\\MS.Auth.Infrastructure.csproj|d:\\proyectosprogramacion\\proyectoslimpios\\sistemacomercial\\ms.auth\\ms.auth.api\\ms.auth.infrastructure\\ms.auth.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32346007-FDE3-46AF-B6CB-E704CAF3D552}|MS.Auth.Infrastructure\\MS.Auth.Infrastructure.csproj|solutionrelative:ms.auth.infrastructure\\ms.auth.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1CF700-37DE-4A0C-8642-9C6DEACCD3B0}|MS.Auth.Api\\MS.AuthService.csproj|d:\\proyectosprogramacion\\proyectoslimpios\\sistemacomercial\\ms.auth\\ms.auth.api\\ms.auth.api\\ms.authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C1CF700-37DE-4A0C-8642-9C6DEACCD3B0}|MS.Auth.Api\\MS.AuthService.csproj|solutionrelative:ms.auth.api\\ms.authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32346007-FDE3-46AF-B6CB-E704CAF3D552}|MS.Auth.Infrastructure\\MS.Auth.Infrastructure.csproj|d:\\proyectosprogramacion\\proyectoslimpios\\sistemacomercial\\ms.auth\\ms.auth.api\\ms.auth.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32346007-FDE3-46AF-B6CB-E704CAF3D552}|MS.Auth.Infrastructure\\MS.Auth.Infrastructure.csproj|solutionrelative:ms.auth.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1A29A-24E4-4C4F-AD69-EEE60B3CBBEF}|MS.Auth.Application\\MS.Auth.Application.csproj|d:\\proyectosprogramacion\\proyectoslimpios\\sistemacomercial\\ms.auth\\ms.auth.api\\ms.auth.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1A29A-24E4-4C4F-AD69-EEE60B3CBBEF}|MS.Auth.Application\\MS.Auth.Application.csproj|solutionrelative:ms.auth.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733152AE-2A15-41B8-B87A-4CD9E5F9220F}|MS.Auth.Domain\\MS.Auth.Domain.csproj|d:\\proyectosprogramacion\\proyectoslimpios\\sistemacomercial\\ms.auth\\ms.auth.api\\ms.auth.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733152AE-2A15-41B8-B87A-4CD9E5F9220F}|MS.Auth.Domain\\MS.Auth.Domain.csproj|solutionrelative:ms.auth.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 47,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MS.Auth.Infrastructure",
+              "DocumentMoniker": "D:\\ProyectosProgramacion\\ProyectosLimpios\\SistemaComercial\\MS.Auth\\MS.Auth.Api\\MS.Auth.Infrastructure\\MS.Auth.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MS.Auth.Infrastructure\\MS.Auth.Infrastructure.csproj",
+              "ToolTip": "D:\\ProyectosProgramacion\\ProyectosLimpios\\SistemaComercial\\MS.Auth\\MS.Auth.Api\\MS.Auth.Infrastructure\\MS.Auth.Infrastructure.csproj",
+              "RelativeToolTip": "MS.Auth.Infrastructure\\MS.Auth.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T01:40:17.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MS.AuthService.csproj",
+              "DocumentMoniker": "D:\\ProyectosProgramacion\\ProyectosLimpios\\SistemaComercial\\MS.Auth\\MS.Auth.Api\\MS.Auth.Api\\MS.AuthService.csproj",
+              "RelativeDocumentMoniker": "MS.Auth.Api\\MS.AuthService.csproj",
+              "ToolTip": "D:\\ProyectosProgramacion\\ProyectosLimpios\\SistemaComercial\\MS.Auth\\MS.Auth.Api\\MS.Auth.Api\\MS.AuthService.csproj",
+              "RelativeToolTip": "MS.Auth.Api\\MS.AuthService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T01:37:47.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ProyectosProgramacion\\ProyectosLimpios\\SistemaComercial\\MS.Auth\\MS.Auth.Api\\MS.Auth.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "MS.Auth.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\ProyectosProgramacion\\ProyectosLimpios\\SistemaComercial\\MS.Auth\\MS.Auth.Api\\MS.Auth.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "MS.Auth.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:38:51.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ProyectosProgramacion\\ProyectosLimpios\\SistemaComercial\\MS.Auth\\MS.Auth.Api\\MS.Auth.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "MS.Auth.Application\\Class1.cs",
+              "ToolTip": "D:\\ProyectosProgramacion\\ProyectosLimpios\\SistemaComercial\\MS.Auth\\MS.Auth.Api\\MS.Auth.Application\\Class1.cs",
+              "RelativeToolTip": "MS.Auth.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:38:12.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ProyectosProgramacion\\ProyectosLimpios\\SistemaComercial\\MS.Auth\\MS.Auth.Api\\MS.Auth.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "MS.Auth.Domain\\Class1.cs",
+              "ToolTip": "D:\\ProyectosProgramacion\\ProyectosLimpios\\SistemaComercial\\MS.Auth\\MS.Auth.Api\\MS.Auth.Domain\\Class1.cs",
+              "RelativeToolTip": "MS.Auth.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:37:42.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "frontendUrl": "http://localhost:4200",
+  "backendUrl": "http://localhost:5000",
+  "authUrl": "http://localhost:5001/login",
+  "compraUrl": "http://localhost:5002/compra"
+}

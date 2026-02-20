@@ -1,0 +1,6 @@
+@MS.OrquestadorCompras.Api_HostAddress = http://localhost:5283
+
+GET {{MS.OrquestadorCompras.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

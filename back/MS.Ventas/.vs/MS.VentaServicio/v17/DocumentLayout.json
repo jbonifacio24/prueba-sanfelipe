@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0357C-3541-4E95-9193-5E95643DE5E5}|MS.Venta.Api\\MS.Venta.Api.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\ms.ventas\\ms.venta.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0357C-3541-4E95-9193-5E95643DE5E5}|MS.Venta.Api\\MS.Venta.Api.csproj|solutionrelative:ms.venta.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0357C-3541-4E95-9193-5E95643DE5E5}|MS.Venta.Api\\MS.Venta.Api.csproj|d:\\archivosjoseluis\\github\\microservicio-sc\\ms.ventas\\ms.venta.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0357C-3541-4E95-9193-5E95643DE5E5}|MS.Venta.Api\\MS.Venta.Api.csproj|solutionrelative:ms.venta.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 47,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MS.Venta.Api\\Program.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Api\\Program.cs",
+              "RelativeToolTip": "MS.Venta.Api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:48:34.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Api\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "MS.Venta.Api\\Controllers\\VentaController.cs",
+              "ToolTip": "D:\\ArchivosJoseLuis\\GitHub\\microservicio-sc\\MS.Ventas\\MS.Venta.Api\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "MS.Venta.Api\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:47:32.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

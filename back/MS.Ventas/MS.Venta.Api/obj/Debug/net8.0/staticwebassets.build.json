@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Kc4Yl45B0Id0WWXNQfQi9wI/wBCfKpeyeo0JTeI7ODM=",
+  "Source": "MS.Venta.Api",
+  "BasePath": "_content/MS.Venta.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

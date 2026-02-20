@@ -1,0 +1,6 @@
+@MS.Compra.Api_HostAddress = http://localhost:5242
+
+GET {{MS.Compra.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
